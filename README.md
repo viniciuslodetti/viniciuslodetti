@@ -1,4 +1,4 @@
-## Oiii eu sou Vinicius Lodetti, Desenvolvedor de Software!
+## Oiii eu sou Vinicius Lodetti, Computer Science Student!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuslodetti&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslodetti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
