@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+and+Data+Scientist;Java+|+Python+|+SQL+|+Spring+Boot+|+Scrappy;loading...&background=151B23"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+and+Data+Scientist;Java+|+Python+|+SQL+|+Spring+Boot+|+Scrapy;loading...&background=151B23"/>
 </p>
 
 <div align="center">
@@ -17,7 +17,7 @@
 ---
 
 <p align="left">
-  <img src="./img/shadow.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="./img/darth.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   
   <b>Olá, meu chamo Vinicius Lodetti Avles</b><br><br>
 
@@ -38,6 +38,7 @@
 
 <div align="center">
 
+![Java](https://img.shields.io/badge/Java-151B23?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-151B23?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-151B23?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-151B23?style=for-the-badge&logo=css3&logoColor=white)
