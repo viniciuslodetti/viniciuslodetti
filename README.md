@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Web+Designer+and+Front-End+Developer;React+|+Tailwind+|+NestJS+|+Figma+|+Photoshop;loading...&background=151B23"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+and+Data+Scientist;Java+|+Python+|+SQL+|+Spring+Boot+|+Scrappy;loading...&background=151B23"/>
 </p>
 
 <div align="center">
@@ -19,11 +19,11 @@
 <p align="left">
   <img src="./img/shadow.png" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
   
-  <b>Hey there! I'm Vinicius Lodetti Avles</b><br><br>
+  <b>Olá, meu chamo Vinicius Lodetti Avles</b><br><br>
 
-  Currently, I am focusing my studies on web development, with a strong interest in front-end technologies and user experience. Alongside my academic journey, I work as a designer, which allows me to create visually engaging and intuitive interfaces.
+  Sou um desenvolvedor em evolução, apaixonado por tecnologia e por transformar ideias em soluções reais. Tenho experiência prática com Java, Python, C#, SQL Server, desenvolvimento de APIs, e criação de aplicações utilizando Spring Boot, entre outras ferramentas do ecossistema moderno de software.
 
-  I enjoy developing personal projects that combine design, usability, and modern web practices. As I approach the final year of my degree in Technology in Systems for Internet, I continue to improve my skills and explore new ways to deliver meaningful digital experiences.
+  Cursando Ciência da Computação, sigo avançando nesse universo com o mesmo interesse que despertou minha vontade de começar. Cada conhecimento novo, cada funcionalidade que consigo desenvolver e cada desafio que enfrento me aproxima do propósito que escolhi para minha carreira.
 </p>
 
 <br clear="right">
@@ -62,7 +62,7 @@
       <img src="https://streak-stats.demolab.com?user=Caualemes&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=151B23&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Caualemes&show_icons=true&theme=dark&hide_border=false&bg_color=151B23&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="400"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Viniciuslodettiti&show_icons=true&theme=dark&hide_border=false&bg_color=151B23&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="400"/>
     </td>
   </tr>
 </table>
@@ -70,5 +70,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caualemes&bg_color=151B23&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Viniciuslodettiti&bg_color=151B23&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 </p>
