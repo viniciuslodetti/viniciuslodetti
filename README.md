@@ -19,8 +19,8 @@
 <p align="left">
   <img src="./img/darth_vader.svg" align="right" width="250" style="margin-left: 20px; border-radius: 15px;">
   
-  <b>Olá, meu chamo Vinicius Lodetti Avles</b><br><br>
-
+  <b>Olá, meu chamo Vinicius Lodetti Alves</b>
+  
   Sou um desenvolvedor em evolução, apaixonado por tecnologia e por transformar ideias em soluções reais. Tenho experiência prática com Java, Python, C#, SQL Server, desenvolvimento de APIs, e criação de aplicações utilizando Spring Boot, entre outras ferramentas do ecossistema moderno de software.
 
   Cursando Ciência da Computação, sigo avançando nesse universo com o mesmo interesse que despertou minha vontade de começar. Cada conhecimento novo, cada funcionalidade que consigo desenvolver e cada desafio que enfrento me aproxima do propósito que escolhi para minha carreira.
