@@ -17,7 +17,7 @@
 ---
 
 <p align="left">
-  <img src="./img/darth_vader.svg" align="right" width="500" style="margin-left: 20px; border-radius: 15px;">
+  <img src="./img/darth_vader.svg" align="right" width="300" style="margin-left: 20px; border-radius: 15px;">
   
   <b>Olá, meu chamo Vinicius Lodetti Avles</b><br><br>
 
