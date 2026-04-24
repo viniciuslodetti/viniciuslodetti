@@ -63,7 +63,7 @@
       <img src="https://streak-stats.demolab.com?user=viniciuslodetti&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=151B23&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Viniciuslodettiti&show_icons=true&theme=dark&hide_border=false&bg_color=151B23&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="400"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciuslodettiti&show_icons=true&theme=dark&hide_border=false&bg_color=151B23&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="400"/>
     </td>
   </tr>
 </table>
@@ -71,5 +71,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Viniciuslodettiti&bg_color=151B23&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciuslodettiti&bg_color=151B23&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 </p>
